@@ -1,0 +1,6 @@
+# Rust
+*.exe
+*.pdb
+
+# ts
+node_modules

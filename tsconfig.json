@@ -1,0 +1,12 @@
+{
+	"include": ["."],
+	"exclude": ["node_modules", "typescript/utils"],
+	"compilerOptions": {
+		"resolveJsonModule": true,
+		"sourceMap": false,
+		"target": "ESNext",
+		"module": "CommonJS",
+		"lib": ["ESNext"],
+		"outDir": "."
+	}
+}
